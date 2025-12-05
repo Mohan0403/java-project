@@ -1,0 +1,1 @@
+A collection of Java applications demonstrating strong fundamentals in OOP, data processing, and modular program design. ☕ Showcases clean architecture, maintainability, and practical problem-solving.”
